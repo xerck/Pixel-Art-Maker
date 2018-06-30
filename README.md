@@ -18,4 +18,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 ## How to get started
 
 Click on this below to see the live version of the website.
- https://xerck.github.io/Pixel-art-maker-challenge/.
+https://xerck.github.io/Pixel-Art-Maker/
